@@ -19,18 +19,18 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+    // {
+    //   label: 'Contact me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
     name: 'Vishal Sharma',
     photo: '/photo.jpg',
-    bio: 'Student, Software Engineer & Chill Dude.  Gurugram, HR.',
+    bio: 'Student, Software Engineer, & Chill Dude.  Gurugram, HR.',
     contacts: {
       email: 'hi@vishalsharma.dev',
-      facebook: 'makeavish786',
+      // facebook: 'makeavish786',
       telegram: 'makeavish',
       twitter: 'makeavish11',
       github: 'makeavish',
