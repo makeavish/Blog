@@ -19,14 +19,14 @@ module.exports = {
       label: 'About me',
       path: '/pages/about'
     },
-    {
-      label: 'My CV',
-      path: '/pages/cv'
-    },
-    {
-      label: 'Résumé',
-      path: '/pages/resume'
-    }
+    // {
+    //   label: 'My CV',
+    //   path: '/pages/cv'
+    // },
+    // {
+    //   label: 'Résumé',
+    //   path: '/pages/resume'
+    // }
   ],
   author: {
     name: 'Vishal Sharma',
