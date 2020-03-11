@@ -21,11 +21,11 @@ module.exports = {
     },
     {
       label: 'My CV',
-      url: 'https://www.vishalsharma.ml'
+      path: '/pages/cv'
     },
     {
       label: 'Résumé',
-      url: 'http://bit.ly/VishalResume'
+      path: '/pages/resume'
     }
   ],
   author: {
