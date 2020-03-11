@@ -30,7 +30,7 @@ module.exports = {
     bio: 'Student, Software Engineer, & Chill Dude.  Gurugram, HR.',
     contacts: {
       email: 'hi@vishalsharma.dev',
-      // facebook: 'makeavish786',
+      facebook: '',
       telegram: 'makeavish',
       twitter: 'makeavish11',
       github: 'makeavish',
