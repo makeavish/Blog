@@ -2,11 +2,10 @@
 template: page
 title: About me
 socialImage: /media/image-2.jpg
-slug: /about/
+slug: about
 draft: true
 ---
 Hi!
-
 This is **Vishal Sharma.**
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
