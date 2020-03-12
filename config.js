@@ -17,7 +17,7 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/pages/about.md'
     },
     // {
     //   label: 'My CV',
