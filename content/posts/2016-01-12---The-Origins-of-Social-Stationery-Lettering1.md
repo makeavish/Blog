@@ -3,7 +3,7 @@ slug: sample-2
 draft: false
 socialImage: /media/image-3.jpg
 template: post
-title: Sample 2
+title: Sample Website Under Dev
 date: '2017-12-01T22:40:32.169Z'
 description: >-
   Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
