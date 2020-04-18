@@ -1,17 +1,15 @@
 ---
 template: page
-title: CV
+title: Curriculum Vitae (CV)
 slug: cv
 draft: false
 ---
-
-![Vishal's Avatar](https://avatars3.githubusercontent.com/u/9512100?s=460&u=a3cd36c41842f7c4d24d7585989b8ade180ff8ac&v=4)
-
-
 Vishal Sharma
 =================================
 
 ####    Software Engineer
+<!---
+
 
 **Inovative and dynamic** personality with 10 years of experience in both frontend and backend of various domains along with managing, mentoring and building tools for engineering teams and open source community.
 
@@ -161,6 +159,7 @@ Vishal Sharma
 
 -- -->
 
+<!---
 
 ------------------------------------------
 
@@ -208,3 +207,4 @@ Vishal Sharma
 - Modding mobile phones - hacking the OS and stuff - Sony Ericsson DB2020 (turned my k610 phone into a micro computer with widgets on home screens and customized menu layouts), Symbin s60 modding (ran apache2 and PHP server on my Nokia 5800!), Android rooting, custom ROMs and mods (plugged in a mouse to my Xperia mini pro on Android 2.3.4! - when Android initially supported micro usb master mode - OTG - where I had to create an OTG cable from modding a normal micro usb cable), iOS Jailbreaking (had control center like widgets on my iPhone 4 on iOS 5! used to transfer files from and to my iPad 3 via SSH without even unlocking the device!)
 
 - building ponds and waterfalls ([built a little pond where my family and my budgies take some rest](https://www.reddit.com/r/ponds/comments/cwwztr/my_budgies_enjoying_my_little_outdoor_pond_i_built/)), aquariums, paludariums and aviaries.
+-->
