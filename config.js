@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       label: 'My CV',
-      path: '/pages/cv'
+      path: 'https://vishalsharma.ml'
     },
     // {
     //   label: 'Résumé',
