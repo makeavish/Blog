@@ -1,4 +1,5 @@
 Delployed using [![Netlify Status](https://api.netlify.com/api/v1/badges/46d423dd-5cb1-4555-b14d-ba83ec613596/deploy-status)](https://app.netlify.com/sites/vishalsharmablog/deploys)
+
 Thanks [Alexandr Shelepenok](https://github.com/alxshelepenok) for creating such [an awesome theme](https://github.com/alxshelepenok/gatsby-starter-lumen)
 ## Credits
 Nature graphic by [Anna Bearne](https://www.behance.net/annabearne) from [Noun Project](https://thenounproject.com/) is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/us/legalcode).
