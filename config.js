@@ -20,8 +20,8 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'My CV',
-      path: 'https://vishalsharma.ml'
+      label: 'CV',
+      path: 'https://cv.vishalsharma.dev'
     },
     // {
     //   label: 'Résumé',
