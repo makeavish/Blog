@@ -16,6 +16,10 @@ module.exports = {
       path: '/'
     },
     {
+      label: 'Favorite Quotes',
+      path: '/pages/favorite-quotes'
+    },
+    {
       label: 'About me',
       path: '/pages/about'
     },
@@ -23,10 +27,6 @@ module.exports = {
       label: 'CV',
       path: 'https://cv.vishalsharma.dev'
     },
-    // {
-    //   label: 'Résumé',
-    //   path: '/pages/resume'
-    // }
   ],
   author: {
     name: 'Vishal Sharma',
